@@ -4,8 +4,8 @@
 
 Este é um sistema web desenvolvido com Flask para gerenciar tarefas. O sistema permite adicionar novas tarefas, visualizar a lista de tarefas, marcar tarefas como concluídas, remover tarefas da lista, cadastrar e gerenciar usuários, e muito mais.
 
-## 📫 Contato:
-- **E-mail:** [jorgefelipe1986@gmail.com](mailto:jorgefelipe1986@gmail.com)
+## Contato:
+- **E-mail:** [dev.jdias@gmail.com](mailto:dev.jdias@gmail.com)
 - **LinkedIn:** [Jorge Dias](https://www.linkedin.com/in/jorge-dias-66117629b/)
 
 ## Estrutura do Projeto
