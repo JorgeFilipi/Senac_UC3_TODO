@@ -33,3 +33,8 @@ todo/
 │   └── styles.css
 ├── requirements.txt               # Dependências necessárias do projeto
 └── .env                           # Variáveis de ambiente
+
+
+## 📫 Contato:
+- **E-mail:** [jorgefelipe1986@gmail.com](mailto:jorgefelipe1986@gmail.com)
+- **LinkedIn:** [Jorge Dias](https://www.linkedin.com/in/jorge-dias-66117629b/)
