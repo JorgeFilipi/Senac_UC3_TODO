@@ -1,12 +1,17 @@
 # Sistema de Gerenciamento de Tarefas
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/JorgeFilipi/JorgeFilipi/blob/main/LICENSE) 
+
+## Origem do prjeto
+
+Este projeto foi desenvolvido durante as aulas do curso de Python, ministrado pelo Senac, na terceira disciplina, sob a orientação e supervisão do professor Luís.
+
+https://github.com/lpjunior
 
 ## Descrição
 
 Este é um sistema web desenvolvido com Flask para gerenciar tarefas. O sistema permite adicionar novas tarefas, visualizar a lista de tarefas, marcar tarefas como concluídas, remover tarefas da lista, cadastrar e gerenciar usuários, e muito mais.
 
-## Contato:
-- **E-mail:** [dev.jdias](mailto:dev.jdias@gmail.com)
-- **LinkedIn:** [Jorge Dias](https://www.linkedin.com/in/jorge-dias-66117629b/)
+
 
 ## Estrutura do Projeto
 
@@ -37,3 +42,9 @@ todo/
 │   └── styles.css
 ├── requirements.txt               # Dependências necessárias do projeto
 └── .env                           # Variáveis de ambiente
+
+```
+
+## Contato:
+- **E-mail:** [dev.jdias](mailto:dev.jdias@gmail.com)
+- **LinkedIn:** [Jorge Dias](https://www.linkedin.com/in/jorge-dias-66117629b/)
