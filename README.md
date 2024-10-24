@@ -3,13 +3,18 @@
 
 ## Origem do prjeto
 
-Este projeto foi desenvolvido durante as aulas do curso de Python, ministrado pelo Senac, na terceira disciplina, sob a orientação e supervisão do professor Luís.
-
-https://github.com/lpjunior
+Este projeto foi desenvolvido durante as aulas do curso de Python, ministrado pelo Senac, na terceira disciplina, sob a orientação e supervisão do professor Luis Paulo Lessa de Assis. Segue o link do GitHub do professor:
+- **GitHubn:** [lpjunior](https://github.com/lpjunior)
 
 ## Descrição
 
-Este é um sistema web desenvolvido com Flask para gerenciar tarefas. O sistema permite adicionar novas tarefas, visualizar a lista de tarefas, marcar tarefas como concluídas, remover tarefas da lista, cadastrar e gerenciar usuários, e muito mais.
+Este é um sistema web desenvolvido com Flask para gerenciar tarefas. O sistema traz algumas funcionalidades:
+  - Adicionar novas tarefas;
+  - Visualizar a lista de tarefas;
+  - Marcar tarefas como concluídas;
+  - Remover tarefas da lista;
+  - Cadastrar e gerenciar usuários.
+
 
 
 
